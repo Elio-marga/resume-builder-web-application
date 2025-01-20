@@ -1,2 +1,3 @@
 # resume-builder-web-application
-**Hello**
+
+This project is aiming to create a web application to dynamically generate a resume to ease some formating stress.
